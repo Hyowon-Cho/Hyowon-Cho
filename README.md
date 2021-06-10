@@ -1,9 +1,8 @@
-<p align="center"><big> Hi there 👋, I'm Lukas </big></p>
-<p align="center"> I am Programmer / Engineer / Student </p>
+<h3 align="center">Hi there 👋, I'm Lukas</h3>
 
-<p align="center"> KR TO US</p>
+<h3 align="center"> I am Programmer / Engineer / Student </h3>
 
-<h3 align="center">🛠 MY TECH FACTORY 🛠</h3>
+<h3 align="center">🛠 HERE IS MY TECH FACTORY 🛠</h3>
 
 <p align="center"> Techs that I've used at least once </p>
 
