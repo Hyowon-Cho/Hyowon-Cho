@@ -1,5 +1,5 @@
-### Hi there 👋, I'm Lukas
-#### I am Programmer / Engineer / Student
+<p align="center"> Hi there 👋, I'm Lukas </p>
+<p align="center"> I am Programmer / Engineer / Student </p>
 
 <p align="center"> KR TO US</p>
 
