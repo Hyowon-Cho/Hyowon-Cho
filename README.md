@@ -13,6 +13,10 @@
 | **Research activities** | 2019. 12 ~ 2021. 6 | **CHEMISTRY WITH COMPUTER SCIENCE LAB RESEARCH** | **ECHO** |
 | **:office:Employment** | Looking For Internship | - | - |
 
+
+
+
+
 <h3 align="center">Techs that I'm studying</h3>
 
 <p align="center">
