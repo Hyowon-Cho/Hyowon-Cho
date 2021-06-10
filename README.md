@@ -7,9 +7,9 @@
 
 | **Type** | **Date** | **Contents** | **Organization** |
 |:--------:|:--------:|:--------:|:--------:|
-| **High School Education** | 2019. 08 ~ 2021. 05 | **US High School Diploma** | **Kapaun Mt. Carmel HS** |
-| **University Education** | 2022. 01 ~ | **Department of Mathematics, Software** | **Denison University** |
-| **University Education** | 2022. 01 | **Department of Philosophy** | **Denison University** |
+| **High School Education** | 2019. 08 ~ 2021. 05 | **US High School Diploma** | **BHS** |
+| **University Education** | 2022. 01 ~ | **Department of Mathematics, Software** | **WUSTL** |
+| **University Education** | 2022. 01 | **Department of Philosophy** | **WUSTL** |
 | **Research activities** | 2019. 12 ~ 2021. 6 | **Chemistry related with computer science research lab** | **ECHO** |
 | **:office:Employment** | Looking For Internship | - | - |
 
