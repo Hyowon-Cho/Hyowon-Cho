@@ -26,7 +26,7 @@
 </p>
 
 <br><br>
-<h3 align="center"> # About Me </h3>
+<h3 align="center"> About Me </h3>
 <p align="center">
   <a href="https://velog.io/@kcsa3214"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@kcsa3214"/></a>&nbsp
   <a href="https://www.instagram.com/lukas_h.w/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/lukas_h.w/"/></a>&nbsp
