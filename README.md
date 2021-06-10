@@ -5,8 +5,15 @@
 <h3 align="center">🛠 WELCOME TO MY TECH FACTORY 🛠</h3>
 
 
-<h3 align="center">Techs that I'm studying</h3>
+| **Type** | **Date** | **Contents** | **Organization** |
+|:--------:|:--------:|:--------:|:--------:|
+| **High School Education** | 2019. 08 ~ 2021. 05 | **US High School Diploma** | **Kapaun Mt. Carmel HS** |
+| **University Education** | 2022. 01 ~ | **Department of Mathematics, Software** | **Denison University** |
+| **University Education** | 2022. 01 | **Department of Philosophy** | **Denison University** |
+| **Research activities** | 2019. 12 ~ 2021. 6 | **CHEMISTRY WITH COMPUTER SCIENCE LAB RESEARCH** | **ECHO** |
+| **:office:Employment** | Looking For Internship | - | - |
 
+<h3 align="center">Techs that I'm studying</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
