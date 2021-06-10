@@ -2,9 +2,9 @@
 
 <h3 align="center"> I am Programmer / Engineer / Student </h3>
 
-<h3 align="center">🛠 HERE IS MY TECH FACTORY 🛠</h3>
+<h3 align="center">🛠 WELCOME TO MY TECH FACTORY 🛠</h3>
 
-<p align="center"> Techs that I've used at least once </p>
+<p align="center"> Techs that I'm studying </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
