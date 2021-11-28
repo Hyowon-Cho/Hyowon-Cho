@@ -1,8 +1,8 @@
 <h3 align="center">Lukas</h3>
 
-<h3 align="center"> I am Programmer / Engineer / Student </h3>
+<h3 align="center"> Programmer / Engineer / Student </h3>
 
-<h3 align="center">🛠 WELCOME TO MY TECH FACTORY 🛠</h3>
+<h3 align="center"WELCOME TO MY TECH FACTORY</h3>
 
 
 | **Type** | **Date** | **Contents** | **Organization** |
