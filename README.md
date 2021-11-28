@@ -1,4 +1,4 @@
-<h3 align="center">Hi!👋, I'm Lukas</h3>
+<h3 align="center">Lukas</h3>
 
 <h3 align="center"> I am Programmer / Engineer / Student </h3>
 
