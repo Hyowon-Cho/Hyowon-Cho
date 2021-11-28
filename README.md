@@ -1,21 +1,8 @@
 <h3 align="center">Lukas</h3>
 
-<h3 align="center"> Programmer / Engineer / Student </h3>
+<h3 align="center">Programmer / Engineer / Student </h3>
 
 <h3 align="center"WELCOME TO MY TECH FACTORY</h3>
-
-
-| **Type** | **Date** | **Contents** | **Organization** |
-|:--------:|:--------:|:--------:|:--------:|
-| **High School Education** | 2019. 08 ~ 2021. 05 | **US High School Diploma** | **KMC** |
-| **University Education** | 2022. 01 ~ | **Department of Mathematics, Software** | **DU** |
-| **University Education** | 2022. 01 | **Department of Philosophy** | **DU** |
-| **Research activities** | 2019. 12 ~ 2021. 6 | **Chemistry related with computer science research lab** | **ECHO** |
-| **:office:Employment** | Looking For Internship | - | - |
-
-
-
-
 
 <h3 align="center">Techs that I'm studying</h3>
 
