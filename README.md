@@ -1,4 +1,4 @@
-<h3 align="center">Lukas</h3>
+<h3 align="center">Lukas Cho</h3>
 
 <h3 align="center">Programmer / Engineer / Student </h3>
 
