@@ -1,12 +1,10 @@
-<h3 align="center">Lukas Cho</h3>
+<h3 align="left">Lukas Cho</h3>
 
-<h3 align="center">Programmer / Engineer / Student </h3>
+<h3 align="left">Programmer / Engineer / Student </h3>
 
-<h3 align="center"WELCOME TO MY TECH FACTORY</h3>
+<h3 align="left"WELCOME TO MY TECH FACTORY</h3>
 
-<h3 align="center">Techs that I'm studying</h3>
-
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
@@ -22,12 +20,9 @@
   <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white"/></a>&nbsp 
 </p>
-<h3 align="center"> About Me </h3>
-<p align="center">
-  <a href="https://velog.io/@kcsa3214"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@kcsa3214"/></a>&nbsp
-  <a href="https://www.instagram.com/lukas_h.w/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/lukas_h.w/"/></a>&nbsp
-  <a href="mailto:hwc2002120@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=viliketh1s98@naver.com"/></a>
-</p>
+<h3 align="left"> About Me </h3>
+<p align="left">
+<a href="https://www.instagram.com/lukas_h.w/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/lukas_h.w/"/></a>
 <br>
 
-<h3 align="center">[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ardese)](https://solved.ac/ardese) </h3>
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ardese)](https://solved.ac/ardese)
