@@ -30,4 +30,4 @@
 </p>
 <br>
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ardese)](https://solved.ac/ardese)
+<h3 align="center">[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ardese)](https://solved.ac/ardese) </h3>
