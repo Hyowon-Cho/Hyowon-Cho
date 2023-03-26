@@ -1,4 +1,4 @@
-<h3 align="left">Lukas Cho</h3>
+<h3 align="left">Hyowon Cho</h3>
 
 <h3 align="left">Programmer / Engineer / Student </h3>
 
