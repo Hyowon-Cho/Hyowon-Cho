@@ -1,6 +1,6 @@
 <h3 align="left">Hyowon Cho</h3>
 
-<h3 align="left">Programmer / Engineer / Student </h3>
+<h3 align="left">Programmer / Software Engineer / QA </h3>
 
 <h3 align="left"WELCOME TO MY TECH FACTORY</h3>
 
