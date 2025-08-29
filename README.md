@@ -24,5 +24,3 @@
 <p align="left">
 <a href="https://www.instagram.com/lukas_h.w/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/lukas_h.w/"/></a>
 <br>
-
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ardese)](https://solved.ac/ardese)
